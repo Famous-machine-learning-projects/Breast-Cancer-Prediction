@@ -40,3 +40,27 @@ cd math-prog/cpo-dataset/machine-learn/WDBC/
 | Data Set Characteristics | Number of Instances | Area | Attribute Characteristics | Number of Attributes | Date Donated | Associated Tasks |
 | --- | --- | --- | --- | --- | --- | --- |
 | Multivariate | 569 | Life | Real | 32 | 1995-11-01 | Classification |
+
+
+## Attribute Information:
+<font color='green'>
+    
+- ID number
+- Diagnosis (M = malignant, B = benign)
+3-32)
+
+<b>Ten real-valued features are computed for each cell nucleus:</b>
+
+- radius (mean of distances from center to points on the perimeter)
+- texture (standard deviation of gray-scale values)
+- perimeter
+- area
+- smoothness (local variation in radius lengths)
+- compactness (perimeter^2 / area - 1.0)
+- concavity (severity of concave portions of the contour)
+- concave points (number of concave portions of the contour)
+- symmetry
+- fractal dimension ("coastline approximation" - 1)
+
+    
+</font>
